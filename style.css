@@ -39,3 +39,9 @@ code {
     color: #CE234C;
     background-color: lightgray;
 }
+
+#font-practice {
+    color: green;
+    font-style: italic;
+    font-family: "Arial";
+}
